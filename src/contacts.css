@@ -1,0 +1,77 @@
+.formContent {
+    display: grid;
+    align-items: center;
+    /* justify-content: */
+    background-color:  #b3c9df;
+    margin-top: 10%;
+    margin-left: 10vw;
+    border-color: #576876;
+    padding: 20px;
+    height: 60vh;
+    width: 25vw;
+}
+
+#gmail {
+    max-height: 5vh;
+}
+
+.contactsPanel {
+    display: grid;
+    align-items: center;
+    /* justify-content: */
+    background-color:  #b3c9df;
+    margin-top: 10%;
+    margin-left: 10vw;
+    border-color: #576876;
+    padding: 20px;
+    height: 60vh;
+    width: 6vw;
+    position: relative;
+    left: 150px;
+    bottom: 40px;
+}
+
+.logo {
+    max-height: 7vh;
+    background-color: #b3c9df;
+}
+
+.logo:hover {
+    background-color: #b3c9df;
+}
+
+.form {
+}
+
+input {
+    border-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+label {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#submitButton {
+    max-width: 10vw;
+    align-content: center;
+    border-radius: 10%;
+}
+
+#submitButton:hover {
+    background-color: #a2beda;
+
+}
+
+.inputField {
+    max-width: 30vw;
+}
+
+.center-align {
+    display: grid;
+    justify-content: center;
+}
+
+.blueBackground {
+    background-color:  #b3c9df;
+}
