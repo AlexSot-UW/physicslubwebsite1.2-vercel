@@ -1,6 +1,6 @@
 import React, { Component, useState} from "react";
 import Header from "./header.js";
-import './events.css';
+import './events.modules.css';
 import logo from './logo.png';
 import stargazing from './rohan.jpg';
 import demo from './max.jpg';

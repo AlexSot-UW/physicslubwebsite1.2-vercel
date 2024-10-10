@@ -1,6 +1,5 @@
 import React, { Component, useState} from "react";
-import Header from "./header.js";
-import './teams.css';
+import './teams.modules.css';
 import logo from './logo.png';
 import rohan from './rohan.jpg';
 import max from './max.jpg';

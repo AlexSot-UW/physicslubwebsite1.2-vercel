@@ -1,13 +1,11 @@
-import './App.css';
-import './header.css';
+import './App.modules.css';
+import './header.modules.css';
 import React, {useState} from 'react';
 import { Homepage } from './homepage.js';
 import Events from './events.js';
 import Team from './teams.js';
 import Contact from './contacts.js';
-
 import logo from './logo.png';
-import './header.css';
 
 function Logo() {
     const logoStyle = {
@@ -36,5 +34,5 @@ function App() {
     </div>
   );
 }
-
+// https://rsuitejs.com/components/animation/
 export default App;

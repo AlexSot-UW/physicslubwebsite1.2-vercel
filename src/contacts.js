@@ -1,7 +1,7 @@
 import React, { Component, useState} from "react";
 import emailjs from '@emailjs/browser';
 import Header from "./header.js";
-import './contacts.css';
+import './contacts.modules.css';
 import instagram from './instagram.png';
 import discord from './discord.png';
 import gmail from './gmail.png';
