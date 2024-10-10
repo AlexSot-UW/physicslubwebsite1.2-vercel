@@ -5,7 +5,7 @@
 
 ## **Currently Under Maintenance, so website is not currently deployed**
 
-If you wish to view a snapshot of the site please email me at assotnik@uwaterloo.ca
+If you wish to view a snapshot of the site, or have any further questions please email me at assotnik@uwaterloo.ca
 
 ## Site Features
 
